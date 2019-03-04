@@ -1,0 +1,60 @@
+  OMS CS7637
+Current Semester
+ 
+Past Semesters
+ 
+Search …
+Homework 2 (Spring 2019)
+Answer the following prompts in a maximum of 10 pages (excluding references) in JDF format. Any content beyond 10 pages will not be considered for a grade. 10 pages is a maximum, not a target; our recommended per-section lengths intentionally add to less than 10 pages. This length is intentionally set expecting that your submission may include diagrams, drawings, pictures, etc. These should be incorporated into the body of the paper.
+
+If you would like to include additional information beyond the word limit, you may include it in clearly-marked appendices. These materials will not be used in grading your assignment, but they may help you get better feedback from your classmates and grader.
+
+Question 1: ~2 pages
+Prior to beginning this question, consider one of the great internet debates of our time: what is a sandwich? First, take the following list of dishes and decide whether each one is a sandwich. In your assignment, start with a list of which of these you consider sandwiches, and which you do not. If you are unfamiliar with any of these types of sandwich, you should be able to Google them and find out what they are.
+
+BLT on white bread; hamburger; turkey and swiss on potato roll; meatball sub; tuna salad on brioche; chicken wrap; chip butty; burrito; ice cream sandwich; grilled cheese; turkey hero; ice cream taco; vada pav; toast; toaster strudel; veggie burger; Klondike bar; egg & cheese biscuit; buttered biscuit; gyro; sushi rolls; patty melt; calzone; sloppy joe
+
+Once you’ve labeled each of those, illustrate the process of incremental concept learning using a series of potential sandwiches. Construct a model of what a sandwich is, noting which heuristics are used to specialize and generalize the model with each additional positive or negative example. Step through the process with at least four potential sandwiches, at least two positive and two negative examples. Then, briefly note whether any of the sandwiches you did not include would make a significant difference to the model if you had chosen to go that far.
+
+Next, attempt a classification approach to defining a sandwich. Select a number of parameters (similar to “Lays eggs?” and “Has wings?” from the bird example in the Classification lecture) that would be useful in differentiating sandwiches. We recommend considering both structure and ingredients. Then, define values for those parameters for at least six sandwiches, and then construct an abstracted classification of what a sandwich is based on those values.
+
+Finally, answer the age old question, “Is a hot dog a sandwich?”, using each of three perspectives: the model you developed through incremental concept learning; the classifier you developed based on those parameters and their values; and a case-based reasoning approach. With regard to case-based reasoning, you need only comment on what sandwich you think would be drawn as most “similar” to a hot dog.
+
+Question 2: ~2 pages
+Consider the sentence: “I never said Amy planted that seed.”
+
+First, explain how an AI agent might use the principles of Understanding to make sense of that sentence. As part of this, provide a frame representation of this sentence.
+
+Second, imagine that the sentence had a different emphasis placed on it. “I never said Amy planted that seed”, for example, implies that “Amy planted that seed” was spoken, but not by the current speaker. “I never said Amy planted that seed” implies that the current speaker said that a seed was planted, but not that Amy was the one that did it. Emphasizing any individual word changes the implication of the sentence.
+
+Explore how the AI agent might be able to understand how different emphases alter the meaning of the sentence. What additional knowledge or abilities would it need to have? As part of this, provide a frame representation that captures these new understandings. You must provide frame representations for at least two different interpretations of the sentence, but you may provide more.
+
+Finally, discuss how an AI agent might be able to infer whether this sentence is to be taken literally or figuratively. How would an AI agent decide if the statement describes a literal plant seed or a figurative seed representing an idea?
+
+Question 3: ~2 pages
+Research the Toronto Declaration. Summarize each of its top-level sections (the Preamble, Using the Framework…, Duties of States, Responsibilities of Private Sector Actors, and Right to an Effective Remedy).
+
+Second, analyze the trade-offs inherent to the declaration. In following the declaration, what innovations or opportunities may be lost? If the declaration were discarded, what risks would there be to citizens?
+
+Third, determine your stance on the Toronto Declaration. What do you agree with? What do you disagree with? What would you remove, what would you keep, and what would you add?
+
+Question 4: ~2 pages
+First, select a recent mass-market news article (not a technical publication) that discusses an AI development in a positive light. It does not have to be strictly positive, but it should generally be supportive of new progress or achievements. Summarize the article and what it says about the development. Then, describe specifically how the article attempts to portray the results to an audience unfamiliar with artificial intelligence. Evaluate how accurately the article portrays the actual development or contribution: is it portrayed fairly, or does the article oversell its significance? The article you select could be core to AI, or it could be at the intersection of AI and another field, like medicine, transportation, education, etc.
+
+Second, select a recent mass-market news article that discusses an AI development in a negative light. Repeat the steps above for this second article: summarize it, describe how it explains AI to a mass audience, and evaluate whether the development is portrayed fairly.
+
+Submission Instructions
+Complete your assignment using JDF, then save your submission as a PDF. Assignments should be submitted to the corresponding assignment submission page in Canvas. You should submit a single PDF for this  assignment. This PDF will be ported over to Peer Feedback for peer review by your classmates. If your assignment involves things (like videos, working prototypes, etc.) that cannot be provided in PDF, you should provide them separately (through OneDrive, Google Drive, Dropbox, etc.) and submit a PDF that links to or otherwise describes how to access that material.
+
+This is an individual assignment. All work you submit should be your own. Make sure to cite any sources you reference, and use quotes and in-line citations to mark any direct quotes.
+
+Late work is not accepted without advanced agreement except in cases of medical or family emergencies. In the case of such an emergency, please contact the Dean of Students.
+
+Grading Information
+Your assignment will be graded on a 20-point scale coinciding with a rubric designed to mirror the question structure. Make sure to answer every question posted by the prompt. Pay special attention to bolded words and question marks in the question text.
+
+Peer Review
+After submission, your assignment will be ported to Peer Feedback for review by your classmates. Grading is not the primary function of this peer review process; the primary function is simply to give you the opportunity to read and comment on your classmates’ ideas, and receive additional feedback on your own. All grades will come from the graders alone.
+
+You receive 1.5 participation points for completing a peer review by the end of the day Thursday; 1.0 for completing a peer review by the end of the day Sunday; and 0.5 for completing it after Sunday but before the end of the semester. For more details, see the participation policy.
+

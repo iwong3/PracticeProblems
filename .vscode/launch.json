@@ -1,0 +1,142 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubarraySumEqualsK",
+            "request": "launch",
+            "mainClass": "SubarraySumEqualsK"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchMatrix",
+            "request": "launch",
+            "mainClass": "SearchMatrix"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Temp",
+            "request": "launch",
+            "mainClass": "Temp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinimumWindowSubstring",
+            "request": "launch",
+            "mainClass": "MinimumWindowSubstring"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DistinctSubsequences",
+            "request": "launch",
+            "mainClass": "DistinctSubsequences"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordBreakTwo",
+            "request": "launch",
+            "mainClass": "WordBreakTwo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordBreak",
+            "request": "launch",
+            "mainClass": "WordBreak"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordLadder",
+            "request": "launch",
+            "mainClass": "WordLadder"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordDictionary",
+            "request": "launch",
+            "mainClass": "WordDictionary"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GraphBipartite",
+            "request": "launch",
+            "mainClass": "GraphBipartite"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NetworkDelayTime",
+            "request": "launch",
+            "mainClass": "NetworkDelayTime"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DecodeString",
+            "request": "launch",
+            "mainClass": "DecodeString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Candy",
+            "request": "launch",
+            "mainClass": "Candy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BSTMaxPathSum",
+            "request": "launch",
+            "mainClass": "BSTMaxPathSum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JumpGame",
+            "request": "launch",
+            "mainClass": "JumpGame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwapNodesInPairs",
+            "request": "launch",
+            "mainClass": "SwapNodesInPairs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UniquePaths",
+            "request": "launch",
+            "mainClass": "UniquePaths"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeKSortedLists",
+            "request": "launch",
+            "mainClass": "MergeKSortedLists"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CourseSchedule",
+            "request": "launch",
+            "mainClass": "CourseSchedule"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubstringWithoutRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "LongestSubstringWithoutRepeatingCharacter"
+        }
+    ]
+}
